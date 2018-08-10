@@ -1,0 +1,300 @@
+{
+  "error": false,
+  "Medical Terminology": [
+  {
+    "name": "Acute Kidney Failure (Acute Renal Failure)",
+    "definition": "Kidneys become unable to filter waste products from the blood, causing wastes to accumulate and the bloods chemical makeup may become unbalanced.",
+    "symptoms": "Decreased urine, fluid retention in legs ankles or feet, fatigue, confusion, shortness of breath, nausea, irregular heartbeat, weakness, chest pain, seizures, or coma",
+    "treatment": "Typically requires a hospital stay, IV fluids to balance amount of fluids in the blood, medications to control blood potassium levels, medications to restore blood calcium levels, and dialysis to remove toxins from the blood",
+    "musical_techniques": "Enhance quality of life, discussion/conversation, life review, instrument play, music as a distraction"
+  },
+  {
+    "name": "Alzheimer’s Disease",
+    "definition": "A chronic neurodegenerative disease that usually starts slowly and worsens over time. It is the cause of 60–70% of cases of dementia",
+    "symptoms": "Early symptom is difficulty in remembering recent events (short-term memory loss). As the disease advances, symptoms can include problems with language, disorientation (including easily getting lost), mood swings, loss of motivation, not managing self-care, and behavioral issues. As a person's condition declines, they often withdraw from family and society. Gradually, bodily functions are lost, ultimately leading to death. Although the speed of progression can vary, the typical life expectancy following diagnosis is three to nine years.",
+    "treatment": "No treatments stop or reverse its progression, though some may temporarily improve symptoms. Affected people increasingly rely on others for assistance, often placing a burden on the caregiver; the pressures can include social, psychological, physical, and economic elements. Exercise programs may be beneficial with respect to activities of daily living and can potentially improve outcomes. Behavioral problems or psychosis due to dementia are often treated with anti-psychotics, but this is not usually recommended, as there is little benefit with an increased risk of early death.",
+    "musical_techniques": "Yes/No questions, reminiscence of important year/events in life (spouse, family, children, job)"
+  },
+  {
+    "name": "Amyotrophic Lateral Sclerosis (ALS) or Lou Gehrig’s Disease",
+    "definition":"Progressive nervous system (neurological) disease that destroys nerve cells and causes disability. The nerve cells gradually break down and die. It affects the control of muscles needed for speech, eating and breathing. Fatal disease.",
+    "symptoms":"Twitching muscles, weakness, slurred speech, difficulty walking, assistance with ADLs, tripping, falling, weakness in hands/feet/ankles, trouble swallowing, muscle cramps, difficulty holding head up, difficulty with posture",
+    "treatment": "Fatal disease cannot be cured, but the progression can be slowed down. Medications (Riluzole and Edaravone), medications to provide relief from symptoms such as cramps, constipation, fatigue, excessive salivation and phlegm, pain, depression, and sleeping problems",
+    "musical_techniques": "Iso-principle, instrument play, soft conversation"
+  },
+    {
+    "name": "Aortic Valve Stenosis",
+    "definition":"Heart’s aortic valve narrows which prevents the valve from opening fully, which reduces of blocks blood flow from the heart into the main artery",
+    "symptoms": "Heart murmur, chest pain, dizziness, fainting, shortness of breath, fatigue, heart palpitations, low appetite, weight loss",
+    "treatment": "Monitor condition. Healthy lifestyle. Surgery to repair or replace diseased aortic valve.",
+    "musical_techniques": "Iso-principle to increase comfort. Interpersonal interaction through discussion of pt. Preferred topics."
+ },  
+    {
+    "name": "Aphasia",
+    "definition": "Conditions that leaves an individual with the inability to communicate efficiently. It can affect the ability to speak, write and understand.",
+    "symptoms": "Short/incomplete sentences, nonsensical speech, substitution of words, not understanding others",
+    "treatment": "Speech and language therapy",
+    "musical_techniques": "Singing pt. preferred song selections overly dictated and slowed down. A Capella so as to not over stimulate. Tapping syllables on pt. hand"
+  }, 
+    {
+    "name": "Aspiration",
+    "definition": "Breathing in a foreign object into the airway causing chocking.",
+    "symptoms": "",
+    "treatment": "",
+    "musical_techniques": ""
+  }, 
+  {
+    "name": "Atrial Fibrillation (AFib or AF) ",
+    "definition": "Irregular heart rate that is often rapid and increases the risk of stroke, heart failure and other hear related complications.",
+    "symptoms": "Possibly no symptoms can arise, palpitations, weakness, dizziness, chest pain, shortness of breath, confusion, fatigue, lightheaded",
+    "treatment": "Resetting the heart rhythm, electrical cardioversion, cardioversion with drugs, medications to maintain a normal heart rhythm, catheter ablation, surgical maze procedure, atrioventricular node ablation, anticoagulants, left atrial appendage closure",
+    "musical_techniques": "Iso-principle, conversation about pt. preferred topics, reminiscence, life review, music as a distraction from pain"
+  },
+  {
+    "name": "Bladder Cancer",
+    "definition": "One of the most common cancers, mostly occurs in males. Begins in the cells in the inside of the bladder.",
+    "symptoms": "Blood in urine, painful urination, pelvic pain, back pain, frequent urination",
+    "treatment": "Surgery, chemotherapy, Bacille-Calmette Guerin (BCG)",
+    "musical_techniques": "Increased meaningful socialization and music as a pain distraction"
+  }, 
+  {
+    "name": "Breast Cancer",
+    "definition": "Cancer forms in the cells of the breast. Second most common cancer in woman, behind skin cancer.",
+    "symptoms": "Lump or thickening in the breast, change in size/shape/appearance of the breast, dimpling, inverted nipple, areola (skin surrounding nipple) begins peeling, scaling, crusting, or flaking, redness of the skin",
+    "treatment": "Surgery, lumpectomy (removing caner in breast), mastectomy (removing entire breast), removing lymph nodes, Radiation therapy, Chemotherapy, Hormone therapy, targeted therapy medication, palliative care",
+    "musical_techniques": "Relaxation techniques, guided imagery, lyric analysis, conversation about pt. Preferred topics, song writing"
+  },
+  {
+    "name": "Cerebrovascular Accident (CVA)",
+    "definition": "Medical term for a stroke. Stroke- blood flow to a part of the brain is stopped by a blockage or the rupture of a blood vessel. Ischemic stroke- blood clot blocks a blood vessel and prevents blood and oxygen from getting to a part of the brain. Embolic stroke- clot forms somewhere else in the body and gets lodged in a blood vessel in the brain. Thrombotic stroke- clot forms in a blood vessel in the brain. Hemorrhagic stroke- blood vessel ruptures or hemorrhages and prevents blood from getting to the brain.",
+    "symptoms": "Difficulty walking, dizziness, loss of balance, loss of coordination, difficulty speaking, difficulty understanding, numbness or paralysis in the face, leg, arm, most likely one side of the body, blurred vision, headaches, nausea, vomiting",
+    "treatment": "Restore and control blood flow. Clot-dissolving drug or blood thinner, aspirin, injecting medicine directly to the brain, medicine to lower blood pressure, surgery.",
+    "musical_techniques": "Music for comfort, reminiscence/life review, soft conversation, tactile stimulation"
+  },
+    {
+    "name": "Chronic Kidney Disease (Chronic Kidney Failure)",
+    "definition": "Gradual loss of kidney function",
+    "symptoms": "Nausea, vomiting, loss of appetite, fatigue, weakness, disruption in sleeping patterns, urination frequency changes, muscle cramps, swelling in feet and ankles, itch, chest pain, shortness of breath, high blood pressure",
+    "treatment": "Slowing the progression,blood pressure medications, cholesterol medication, anemia medication, swell reduction medication, bone protection medication, lower protein diet, dialysis, kidney transplant",
+    "musical_techniques": "Music as a distraction from pain, relaxation techniques"
+  },
+    {
+    "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "definition": "Chronic inflammatory lung disease that causes obstructed airflow from the lungs. Caused by long term exposure to irritating gases or particulate matter, most often from cigarettes.",
+    "symptoms": "Difficulty breathing, coughing, mucus production, swelling of the feet/legs. At an increased risk of developing heart disease or lung cancer.",
+    "treatment": "Therapies to help control symptoms and reduce risk of complications and exacerbation",
+    "musical_techniques": "Breathing techniques, relaxing techniques, guided imagery, discussion, co-instrument play"
+  },
+    {
+    "name": "Congestive Heart Failure (CHF)",
+    "definition": "Heart is inadequate in pumping blood throughout the body",
+    "symptoms": "Fatigue, shortness of breath, swelling (edema) throughout the body.",
+    "treatment": "Modifications to lifestyle, dietary changes, medications, heart transplant, therapies.",
+    "musical_techniques": "Breathing techniques, life review, discussion, relaxation techniques"
+  },
+    {
+    "name":"Cor Pulmonale",
+    "definition": "High blood pressure in the pulmonary arteries (Pulmonary Hypertension) found in the right ventricle of the heart, also called right-sided heart failure.  Causes the right ventricle to enlarge and pump blood less effectively.",
+    "symptoms": "Shortness of breath, fatigue, increased heart rate, feeling light headed, chest pain, swelling in the legs/feet, fainting, excessive coughing, wheezing",
+    "treatment": "Medication to decrease blood pressure, medication to increase oxygen flow to the lungs, diuretics to reduce fluid retention, medication to lower sodium levels, blood thinner to prevent blood clots.",
+    "musical_techniques": "Music as a pain distraction, conversation, autonomy"
+  },
+    {
+    "name": "Coronary Artery (atherosclerotic) heart disease",
+    "definition": "Most common type of heart disease, occurs when there is a buildup of cholesterol plague inside the artery walls",
+    "symptoms": "Chest pain, shortness of breath, sweating, nausea, irregular heartbeat, indigestion",
+    "treatment": "Diet, Exercise, controlling high blood pressure, surgery",
+    "musical_techniques": "Iso-principle, relaxation techniques, reminiscence, life review"
+  },
+    {
+    "name": "Deep Vein Thrombosis (DVT)",
+    "definition": "Blood clot (thrombus) forms in one or more of the deep veins in the body, usually in the legs.",
+    "symptoms": "Leg pain (cramping/soreness starting in the calf), swelling, red or discolored skin on leg, warm to the touch, could show no symptoms",
+    "treatment": "Blood thinning medication, support compression stockings, medications that break down the clot (clot busters), filter inserted into vena cava in the abdomen",
+    "musical_techniques": "Music as a pain distraction"
+  },
+    {
+    "name": "Dementia",
+    "definition": "Dementia is not a specific disease. It's an overall term that describes a group of symptoms",
+    "symptoms": "Decline in memory or other thinking skills severe enough to reduce a person's ability to perform everyday activities.",
+    "treatment": "At least two of the following core mental functions must be significantly impaired to be considered dementia: Memory, communication and language, ability to focus and pay attention, reasoning and judgment, visual perception",
+    "musical_techniques": "Providing opportunities for autonomy. Familiar song selections from years where memorable moments happened (high school, dances, wedding)"
+  },
+    {
+    "name": "Diastolic Dysfunction",
+    "definition": "The ventricles do not relax properly and become stiff which causes the blood flow to minimize and causes blood to back up in the organs",
+    "symptoms": "Shortness of breath with exertion, fatigue, edema in lower extremities",
+    "treatment": "Change in diet, cardiac rehabilitation program, medications, water pills, Left Ventricular Assist Devices (LVAD), heart transplant",
+    "musical_techniques": "Breathing techniques, music as a relaxation tool, autonomy"
+  },
+    {
+    "name": "Edema",
+    "definition": "Swelling caused by excess fluid trapped in the body tissue",
+    "symptoms": "Swelling of tissue under the skin usually in the legs or arms, stretched or shiny skin, retains a dimple after being pressed, increased size of the abdomen",
+    "treatment": "Elevation or swollen extremities, medications to expel excess fluid through urine (diuretics)",
+    "musical_techniques": ""
+  },
+    {
+    "name": "Gastrointestinal Bleeding (GI Bleed)",
+    "definition": "Due to a condition in your digestive tract commonly the stomach or colon.",
+    "symptoms": "The blood will appear in the stool or vomit. Stool with often appear black or tarry.",
+    "treatment": "Endoscopic thermal probe (burning the blood vessel or abnormal tissue), endoscopic injection (liquid), argon plasma coagulation, radiofrequency ablation, endoscopic clips, endoscopic band ligation, endoscopic intravariceal cyanoacrylate injection (glue), angiographic embolization",
+    "musical_techniques": "Music as a distraction from pain"
+  },
+    {
+    "name": "Heart (Cardiovascular) Disease (CVD)",
+    "definition": "Narrowing of the coronary arteries diminishes blood supply to the heart. Hardening of the arteries.",
+    "symptoms": "Pain in chest, pain radiates to the arm (usually left) or the jaw, symptoms usually present during exercise and reduce with rest, indigestion, nausea, upper abdominal/shoulder/back pain, fatigue, weakness, heart attack",
+    "treatment": "Enhance quality of life, diet, exercise, medications for blood pressure, cholesterol, diabetes, beta blockers, calcium channel blockers, nitrates",
+    "musical_techniques": "Iso-principle, music as a pain distractor, reminiscence, life review, relaxation techniques"
+  },
+    {
+    "name": "Hypogammaglobulinemia",
+    "definition": "Immune disorder that reduces all types of gamma globulin including antibodies.",
+    "symptoms": "Fatigue, pain, bronchitis, ear infection, meningitis, pneumonia, sinus infection, cough, fever, congestion, nausea, abdominal cramps, joint pain",
+    "treatment": "Antibiotics, immune globulin replacement therapy",
+    "musical_techniques": "Music as a pain distraction, iso-principle, conversation about pt. preferred topics, life review, instrument play, song writing, lyric analysis"
+  },
+    {
+    "name": "Leukemia",
+    "definition": "Cancer of the body’s blood forming tissues and includes the bone marrow and lymphatic system.",
+    "symptoms": "Fever, chills, weakness, fatigue, frequent infections, weight loss, swelling of the lymph nodes, enlarged liver or spleen, bleeding, bruising, nosebleeds, sweating, bone pain",
+    "treatment": "Chemotherapy, targeted therapy, radiation therapy, stem cell transplant",
+    "musical_techniques": "Music as a pain distraction, enhanced quality of life, meaningful interpersonal interaction, iso-principle, lyric analysis, instrument play, song writing"
+  },
+    {
+    "name": "Lewy body dementia",
+    "definition": "Second most common progressive dementia after Alzheimer’s disease. Protein deposits (lewy bodies) develop in nerve cells in the brain regions involved in thinking, memory, movement.",
+    "symptoms": "Progressive decline in mental abilities, hallucination, changes in alertness and attention, rigid muscles, slow movement, tremors, sleep difficulties, drowsiness, depression",
+    "treatment": "Various therapies (physical, speech, occupational, music), medications (Alzheimer’s, Parkinson’s)",
+    "musical_techniques": "Reminiscence, life review, soft conversation, autonomy"
+  },
+    {
+    "name": "Lipoma",
+    "definition": "Slow growing fatty lump between skin and underlying muscle layer. Not cancer and usually harmless",
+    "symptoms": "Generally small, sometimes painful, doughy and soft to the touch",
+    "treatment": "Surgery, can leave it",
+    "musical_techniques": ""
+  },
+    {
+    "name": "Liver Cancer",
+    "definition": "Hepatocellular carcinoma (most common liver cancer), intrahepatic cholangiocarcinoma, hepatoblastoma.",
+    "symptoms": "Weight loss, loss of appetite, upper abdominal pain, nausea, vomiting, weakness, fatigue, abdominal swelling, jaundice (yellow skin), white chalky stool",
+    "treatment": "Surgery, radiation therapy, immunotherapy, chemotherapy, targeted therapy",
+    "musical_techniques": "Music as a pain distraction, meaningful interpersonal interaction, life review"
+  },
+    {
+    "name": "Lung Cancer",
+    "definition": "Number 1 cause of cancer related deaths among men and women. Two types small cell lung cancers (SCLC) and non-small cell lung cancers (NSCLC).",
+    "symptoms": "Pain in the chest, shoulder, or back unrelated to pain from coughing. A change in color or volume of sputum. Shortness of breath. Changes in the voice or being hoarse. Harsh sounds with each breath (stridor). Recurrent lung problems, such as bronchitis or pneumonia. Coughing up phlegm or mucus, especially if it is tinged with blood. Coughing up blood. Symptoms of lung cancer that may occur elsewhere in the body: Loss of appetite or unexplained weight loss. Muscle wasting (also known as cachexia). Fatigue. Headaches. bone or joint pain. Bone fractures not related to accidental injury. Neurological symptoms, such as unsteady gait or memory loss. Neck or facial swelling. General weakness. Bleeding. Blood clots",
+    "treatment": "Treatment of lung cancer can involve a combination of surgery, chemotherapy, targeted therapy, immunotherapy, and radiation therapy as well as newer experimental methods. Coughing, especially if it persists or becomes intense.",
+    "musical_techniques": "Pain management. Iso-principle to increase comfort. Meaningful interpersonal interaction. Breathing techniques to slow and/or deepen breaths."
+  },
+    {
+    "name": "Malignant Neoplasm",
+    "definition": "A cancerous tumor, or abnormal growth of cells. Neoplasm cells invade healthy tissue and metastasize (spread) to other areas of the body. Staging is scored using a TNM classification. T (1,2,3,4) based on the size/extent of invasion. N (0,1,2,3) indicates the extent of lymph node involvement. M (0,1) indicates whether distant metastases are present.",
+    "symptoms": "Anemia, night sweats, shortness of breath, fatigue, diarrhea, weight loss, abnormal lumps. Depends on where the tumor is located. Breast- abnormal breast discharge. Skin- skin lesions, sores, skin ulcers, red patches. Colon- abdominal pain, bloody stools, changes in stool consistency",
+    "treatment": "Chemotherapy, Surgery, Radiation Therapy",
+    "musical_techniques": "Music as a pain distraction, relaxation techniques, life review"
+  },
+    {
+    "name": "Metastasis (Mets)",
+    "definition": "A development of secondary malignant growths away from the primary cancer site.",
+    "symptoms": "",
+    "treatment": "Surgery, chemo, close observation",
+    "musical_techniques": "Music as a pain distraction, iso-principle, conversation/reminiscence"
+  },
+    {
+    "name": "Multiple Sclerosis",
+    "definition": "Disabling disease located in the central nervous system (brain and spinal cord). Immune system attacks the protective sheath (myelin) and causes the nerves to deteriorate.",
+    "symptoms": "Numbness, weakness in the limbs usually on one side of the body or in the legs, vision loss, eye pain, double vision, tingling, pain throughout body, tremor, coordination failure, unsteady gait, slurred speech, fatigue, dizziness, change in bowel/bladder function.",
+    "treatment": "Corticosteroids to reduce nerve inflammation, plasma exchange (plasmapheresis), medications, muscle relaxants",
+    "musical_techniques": "Music as a distraction from pain, conversation about pt. preferred topics and reminiscence, autonomy opportunities, relaxation techniques"
+  },
+    {
+    "name": "Myelodysplastic Syndromes",
+    "definition": "Group of disorders caused by poorly formed blood cells or blood cells that do not work properly, due to a complication in the bone marrow.",
+    "symptoms": "Shortness of breath, fatigue, paleness, low blood cell count (anemia), easy bruising or bleeding, low platelet count (thrombocytopenia), frequent infections, low white blood cell count (leukopenia), red spots beneath the skin, bleeding beneath skin (petechiae), individuals may not have any symptoms",
+    "treatment": "Managing symptoms, prevent bleeding, prevent infections, slowing progression, regular exams, regular lab tests, blood transfusions, medications to increase blood cells, medication to suppress immune system, bone marrow transplant",
+    "musical_techniques": "Discussion/conversation, enhanced quality of life, music as a distraction from current situation, instrument play, music as a distraction from pain, lyric analysis"
+  },
+    {
+    "name": "Pancreatic Cancer",
+    "definition": "Cancer begins in the tissues of the pancreas, the pancreas releases enzymes that aid digestion and hormones that manage blood sugar levels. Usually spreads rapidly to nearby organs.",
+    "symptoms": "Diabetes, weight loss, low appetite, jaundice, pain in upper abdomen, pain in back, depression, blood clots, fatigue",
+    "treatment": "Surgery to remove tumors, surgery to remove the pancreas, surgery to remove nearby tumors affecting blood vessels, chemotherapy, radiation therapy, palliative care",
+    "musical_techniques": "Music as a pain distraction, reminiscence, relaxation techniques"
+  },
+    {
+    "name": "Parkinson’s Disease",
+    "definition": "Progressive disorder of the nervous system that affects movement, 5 stages. Usually starts with a small tremor in one hand. Often causes the body to become stiff and slows down movement.",
+    "symptoms": "Tremor, slowed movement, rigid muscles, impaired posture, impaired balance, loss of automatic movements (blinking, smiling), changes in speech, difficulty writing",
+    "treatment": "There is currently no cure. Attention from specialists including Neurologists, Occupational Therapists, Physical Therapist, Speech Therapists, Dietitians. The specialists can help reduce symptoms through maintaining quality of lie, improve mobility, reduce rigidity, reduce tremors, improve overall movement speed, improve posture, gait, balance, and improve speech. Prescribed medications.",
+    "musical_techniques": "Movement, Instrument play, dancing, meaningful interpersonal interaction"
+  },
+    {
+    "name": "Peripheral Artery Disease or Peripheral Vascular Disease (PAD)",
+    "definition": "Circulatory problem where narrowed arteries reduce blood flow to the limbs. Extremities (usually legs) don’t receive enough blood flow",
+    "symptoms": "Pain in legs, cramping in legs or arms when triggered with activity, most common pain is the calf.",
+    "treatment": "Lifestyle changes. Medicine to prevent blood clots, lower blood pressure, lower cholesterol",
+    "musical_techniques": "Music as a pain distraction, meaningful interpersonal interaction through conversation"
+  },
+    {
+    "name": "Pocketing",
+    "definition": "Keeping food in the mouth, cheeks, gums usually due to difficulty swallowing",
+    "symptoms": "",
+    "treatment": "Pureed food",
+    "musical_techniques": ""
+  },
+    {
+    "name": "Progressive Supranuclear Palsy (PSP) (Steele-Richardson-Olszewski syndrome)",
+    "definition": "Uncommon brain disorder that causes issues with walking, balance and eye movements. Caused by deterioration of cells in the motor and thinking parts of the brain.",
+    "symptoms": "Loss of balance, falling backwards, difficulty focusing eyes, blurriness, double vision, stiffness, difficulty with speech and swallowing, sensitivity to light, sleep disturbances, impulsive behavior, memory loss, depression, anxiety, uncommon facial expressions",
+    "treatment": "Parkinson’s disease medications, Onabotulinumtoxin type A (Botox), eyeglasses, physical therapy, occupational therapy",
+    "musical_techniques": "Instrument play, relaxation techniques, reminiscence"
+  },
+     {
+    "name": "Protein Calorie Malnutrition",
+    "definition": "Protein-Calorie Malnutrition (PCM) refers to a nutritional status in which reduced availability of nutrients leads to changes in body composition and function",
+    "symptoms": "Weight Loss, weakness, fatigue",
+    "treatment": "",
+    "musical_techniques": "Meaningful interpersonal interaction, conversations about pt. preferred topics, iso-principle"
+  },
+     {
+    "name": "Pulmonary Embolism",
+    "definition": "A blood clot gets lodged in an artery in the lunch, blocking blood flow to parts of the lung. Blood clot usually originate in the legs and travel up through the right side of the heart",
+    "symptoms": "Shortness of breath, chest pain, cough that may produce blood, leg pain, swelling in calf, clammy or discolored skin, fever, sweating, irregular heartbeat, rapid heartbeat, lightheaded, dizziness",
+    "treatment": "Blood thinners, clot dissolvers, surgery, clot removal, vein filter",
+    "musical_techniques": "Iso-principle, music as a pain distraction, instrument play, conversation/discussion, life review"
+  },
+  
+     {
+    "name": "Pulmonary Fibrosis",
+    "definition": "Lung disease that occurs when lung tissue becomes damaged and scarred which causes the lungs to have difficulty working properly",
+    "symptoms": "Shortness of breath, fatigue, weight loss, dry cough aching muscles and joints, clubbing of fingers and toes",
+    "treatment": "Medications, oxygen therapy, pulmonary rehabilitation, lung transplant",
+    "musical_techniques": "Iso-principle, breathing techniques to assist with deeper breathing, relaxation techniques, conversation about pt. preferred topics"
+  },
+     {
+    "name": "Sepsis",
+    "definition": "Occurs when chemicals released into the bloodstream to fight the infection trigger inflammatory responses throughout the body. Is a life-threatening complication of an infection.",
+    "symptoms": "Blood pressure drops. Fever, raised heart rate, decreased urine output, decreased platelet count, abdominal pain",
+    "treatment": "Close monitoring and treatment in a hospital intensive care unit, and medication. Antibiotics, vasopressors, oxygen and fluids.",
+    "musical_techniques": "Pain management, using music as a pain distraction"
+  },
+     {
+    "name": "Tachypnea",
+    "definition": "Abnormal rapid breathing",
+    "symptoms": "",
+    "treatment": "",
+    "musical_techniques": "Relaxation techniques, breathing exercises and music adaptation to mirror pt. breathing"
+  },
+     {
+    "name": "Transient Ischemic Attack (TIA)",
+    "definition": "Produces similar symptoms to a stroke by lasts a few minutes causing no permanent damage.",
+    "symptoms": "Weakness/numbness/paralysis to the face, arm, or leg on one side of the body. Slurred speech, difficulty understanding speech, blindness in one or both eyes, double vision, dizziness, loss of balance/coordination, sudden severe headaches",
+    "treatment": "Anti-platelet drugs, anticoagulants, thrombolytic agents, surgery, angioplasty",
+    "musical_techniques": "Iso-principle, music as a distraction from current situation, conversation about pt. preferred topics, instrument play"
+  }
+ ]
+}

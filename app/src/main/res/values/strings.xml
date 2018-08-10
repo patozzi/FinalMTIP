@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MTIP Medical Dictionary</string>
+    <string name="musical_techniques">Musical Techniques</string>
+    <string name="treatment">Treatment</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="definition">Definition</string>
+    <string name="term">Term</string>
+</resources>
