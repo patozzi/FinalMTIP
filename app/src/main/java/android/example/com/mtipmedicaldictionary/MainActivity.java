@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.TermAda
         startActivity(intent);
     }
 
-    private static final String URL_DATA = "https://raw.githubusercontent.com/patozzi/MTIPMedicalDictionary/master/Ryan%20MTIP%20JSON.json";
+    private static final String URL_DATA = "https://raw.githubusercontent.com/patozzi/FinalMTIP/master/Ryan%20MTIP%20JSON.json";
 
     private RecyclerView recyclerView;
     private MyAdapter myAdapter;
